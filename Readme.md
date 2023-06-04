@@ -140,5 +140,7 @@ Follow these steps to set up the project:
 ## Links
 
 ```
+- Deployed app: [Replit](https://replit.com/@arviiii/loopr-python)
+- Postman Documentation: [Postman](https://documenter.getpostman.com/view/17461415/2s93sW9vko)
 
 ```
