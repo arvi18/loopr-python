@@ -1,0 +1,10 @@
+/.vscode
+/__pycache__
+/venv
+/looper-env
+users.json
+coupons.json
+carts.json
+products.json
+postman.json
+```
